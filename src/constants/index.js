@@ -29,11 +29,12 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 3, suffix: "+", label: "Years of Experience" },
-  { value: 200, suffix: "+", label: "Satisfied Clients" },
-  { value: 8, suffix: "+", label: "Completed Projects" },
-  { value: 90, suffix: "%", label: "Client Retention Rate" },
+  { value: 3, suffix: "+", label: "Years of Academic Experience" },
+  { value: 15, suffix: "+", label: "Technologies Learned" },
+  { value: 8, suffix: "+", label: "Academic & Personal Projects" },
+  { value: 100, suffix: "%", label: "Learning & Growth Mindset" },
 ];
+
 
 const logoIconsList = [
   {
